@@ -15,6 +15,7 @@ Examples of services available in GitHub's README
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekonekko)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekonekko&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekonekko&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekonekko&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Profile Trophy
 ### Repository link
