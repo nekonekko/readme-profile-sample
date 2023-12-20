@@ -21,3 +21,18 @@ Examples of services available in GitHub's README
 [ryo-ma/github-profile-trophy: 🏆 Add dynamically generated GitHub Stat Trophies on your readme](https://github.com/ryo-ma/github-profile-trophy)
 ### Examples
 [![trophy](https://github-profile-trophy.vercel.app/?username=nekonekko)](https://github.com/ryo-ma/github-profile-trophy)
+
+## GitHub Profile Summary Cards
+### Repository link
+[vn7n24fzkq/github-profile-summary-cards: A tool to generate your github summary card for profile README](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### Examples
+#### Profile details card
+[![](https://raw.githubusercontent.com/nekonekko/nekonekko/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+#### Top languages used in repository card
+[![](https://raw.githubusercontent.com/nekonekko/nekonekko/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+#### Top languages in commits card
+[![](https://raw.githubusercontent.com/nekonekko/nekonekko/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+#### GitHub stats card
+[![](https://raw.githubusercontent.com/nekonekko/nekonekko/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+#### Productive time card
+[![](https://raw.githubusercontent.com/nekonekko/nekonekko/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
